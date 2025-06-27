@@ -4,6 +4,9 @@
 ### 🚀 Projects
 
 <!-- START PROJECT LINKS -->
+| Project | Description | Link |
+|--------|-------------|------|
+| 🔹 **Diffie-Hellman Key exchange Algorithm** | An algorithm to safely share a secret key over an insecure channel | [View on GitHub](https://github.com/oniwasgone/Diffie-Hellman-Algo.git) |
 <!-- END PROJECT LINKS -->
 
 ---
