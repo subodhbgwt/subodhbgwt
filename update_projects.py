@@ -2,8 +2,8 @@ import requests
 
 USERNAME = "oniwasgone"
 README_FILE = "README.md"
-START = "<!-- START_PROJECTS -->"
-END = "<!-- END_PROJECTS -->"
+START = "<!-- START PROJECT LINKS -->"
+END = "<!-- END PROJECT LINKS -->"
 
 def fetch_repos():
     url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&sort=updated"
