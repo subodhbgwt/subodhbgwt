@@ -2,7 +2,7 @@ name: Update Project List
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # every Sunday
+    - cron: "0 0 * * 0" # every Sunday
   workflow_dispatch:
 
 jobs:
@@ -24,9 +24,11 @@ jobs:
         run: python update_projects.py
 
       - name: Commit and push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
           git commit -m "Update project list [bot]" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GH_PAT}@github.com/oniwasgone/oniwasgone.git HEAD:main
