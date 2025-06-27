@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center"> Subodh Bhagwat </h1>
+<p align="center"><em> Trying to get 1% better every day </em></p>
 
-<!--
-**oniwasgone/oniwasgone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
 
-Here are some ideas to get you started:
+<!-- START PROJECT LINKS -->
+<!-- END PROJECT LINKS -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,go,python,github,vscode" alt="Tech stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oniwasgone&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oniwasgone&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oniwasgone&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/subodh-bhagwat/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60" />
+  </a>
+</p>
+
+---
