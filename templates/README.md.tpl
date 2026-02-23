@@ -5,8 +5,8 @@
 
 Here are some of the things I've been building and open-sourcing recently:
 
-{{range recentRepos "oniwasgone" 5}}
-- [**{{.Name}}**]({{.URL}}) - {{if .Description}}{{.Description}}{{else}}*No description provided*{{end}}
+{{range recentContributions 5}}
+- [**{{.Repo.Name}}**]({{.Repo.URL}}) - {{if .Repo.Description}}{{.Repo.Description}}{{else}}*No description provided*{{end}}
 {{- end}}
 
 ---
