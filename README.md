@@ -1,21 +1,22 @@
 <h1 align="center"> Subodh Bhagwat </h1>
 <p align="center"><em> Trying to get 1% better every day </em></p>
 
-### 🚀 Projects
+### 🚀 Latest Public Projects
 
-<!-- START PROJECT LINKS -->
-| Project | Description | Link |
-|--------|-------------|------|
-| 🔹 **Diffie-Hellman Key exchange Algorithm** | An algorithm to safely share a secret key over an insecure channel | [View on GitHub](https://github.com/oniwasgone/Diffie-Hellman-Algo.git) |
-| 🔹 **Portfolio Website** | Created a portfolio website with an AI pipeline to streamline efficiency | [View here](https://oniwasgone.github.io/portfolio/#about) |
-<!-- END PROJECT LINKS -->
+Here are some of the things I've been building and open-sourcing recently:
+
+
+- [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) - *No description provided*
 
 ---
 
 ### 🛠 Tech Stack
 
+**Languages:** Python, Java, C / C++, Go, SQL, Haskell, Assembly  
+**Technologies:** Docker, PostgreSQL, Spring, Dash, GitHub, MATLAB
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,go,python,github,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,postgres,docker,spring,matlab,haskell,github,vscode" alt="Tech stack" />
 </p>
 
 ---
@@ -42,3 +43,4 @@
 </p>
 
 ---
+<p align="center"><em>This README is automatically updated daily to feature my newest public repositories!</em></p>
