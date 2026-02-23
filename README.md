@@ -1,9 +1,19 @@
 <h1 align="center"> Subodh Bhagwat </h1>
 <p align="center"><em> Trying to get 1% better every day </em></p>
 
-### 🚀 Latest Public Projects
+### 🌟 Featured Projects
 
-Here are some of the things I've been building and open-sourcing recently:
+| Project | Description | Link |
+|--------|-------------|------|
+| 🎙️ **Realtime AI Sales Assistant** | A local desktop application integrating the OpenAI API for real-time sales call assistance and live transcription. | [View GitHub Repository](https://github.com/oniwasgone/sales-call-assistant) |
+| 🔐 **Diffie-Hellman Key exchange Algorithm** | An algorithm to safely share a secret key over an insecure channel. | [View GitHub Repository](https://github.com/oniwasgone/Diffie-Hellman-Algo) |
+| 🚀 **Developer Portfolio** | A modern Vanilla JS web application featuring premium smooth scrolling and animations. | [View Live Website](https://oniwasgone.github.io/portfolio/) |
+
+---
+
+### 📈 Recent Activity
+
+Here is a live feed of my latest open-source contributions and updates:
 
 
 - [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) - *No description provided*
