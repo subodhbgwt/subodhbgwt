@@ -7,6 +7,7 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | 🔹 **Diffie-Hellman Key exchange Algorithm** | An algorithm to safely share a secret key over an insecure channel | [View on GitHub](https://github.com/oniwasgone/Diffie-Hellman-Algo.git) |
+| 🔹 **Portfolio Website** | Created a portfolio website with an AI pipeline to streamline efficiency | [View here](https://oniwasgone.github.io/portfolio/#about) |
 <!-- END PROJECT LINKS -->
 
 ---
