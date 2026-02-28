@@ -14,9 +14,10 @@
 
 ### 📦 Public Repositories
 
-{{range recentRepos 10}}
-| [**{{.Name}}**]({{.URL}}) | {{if .Description}}{{.Description}}{{else}}*No description*{{end}} | ⭐ {{.Stargazers}} |
-{{- end}}
+| Repository | Description | Stars |
+|-----------|-------------|-------|
+{{range recentRepos 10}}| [**{{.Name}}**]({{.URL}}) | {{.Description}} | ⭐ {{.Stargazers}} |
+{{end}}
 
 ---
 
@@ -25,7 +26,7 @@
 Here is a live feed of my latest open-source contributions and updates:
 
 {{range recentContributions 5}}
-- [**{{.Repo.Name}}**]({{.Repo.URL}}) - {{if .Repo.Description}}{{.Repo.Description}}{{else}}*No description provided*{{end}}
+- [**{{.Repo.Name}}**]({{.Repo.URL}})
 {{- end}}
 
 ---
