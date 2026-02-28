@@ -14,11 +14,13 @@
 
 ### 📦 Public Repositories
 
-
-| [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) | *No description* | ⭐ 0 |
-| [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) | *No description* | ⭐ 0 |
-| [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) | *No description* | ⭐ 0 |
+| Repository | Description | Stars |
+|-----------|-------------|-------|
+| [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) |  | ⭐ 0 |
+| [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) |  | ⭐ 0 |
+| [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) |  | ⭐ 0 |
 | [**oniwasgone/Diffie-Hellman-Algo**](https://github.com/oniwasgone/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. | ⭐ 0 |
+
 
 ---
 
@@ -27,9 +29,9 @@
 Here is a live feed of my latest open-source contributions and updates:
 
 
-- [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) - *No description provided*
-- [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) - *No description provided*
-- [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) - *No description provided*
+- [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode)
+- [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio)
+- [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant)
 
 ---
 
