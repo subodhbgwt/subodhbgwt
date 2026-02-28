@@ -1,22 +1,11 @@
 <h1 align="center"> Subodh Bhagwat </h1>
 <p align="center"><em> Trying to get 1% better every day </em></p>
 
-### 🌟 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 🎙️ **Realtime AI Sales Assistant** | A local desktop application integrating the OpenAI API for real-time sales call assistance and live transcription. | [View GitHub Repository](https://github.com/oniwasgone/sales-call-assistant) |
-| 🔐 **Diffie-Hellman Key Exchange Algorithm** | An algorithm to safely share a secret key over an insecure channel. | [View GitHub Repository](https://github.com/oniwasgone/Diffie-Hellman-Algo) |
-| 🖼️ **Image Processing on DE10-Lite** | Real-time image processing with convolution kernels on RISC-V FPGA hardware. | [View GitHub Repository](https://github.com/oniwasgone/gitdtekvcode) |
-| 🚀 **Developer Portfolio** | A modern Vanilla JS web application featuring premium smooth scrolling and animations. | [View Live Website](https://oniwasgone.github.io/portfolio/) |
-
----
-
 ### 📦 Public Repositories
 
-| Repository | Description | Stars |
-|-----------|-------------|-------|
-{{range recentRepos 10}}| [**{{.Name}}**]({{.URL}}) | {{.Description}} | ⭐ {{.Stargazers}} |
+| Repository | Description |
+|-----------|-------------|
+{{range recentRepos 10}}| [**{{.Name}}**]({{.URL}}) | {{.Description}} |
 {{end}}
 
 ---
