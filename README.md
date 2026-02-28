@@ -6,8 +6,19 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | 🎙️ **Realtime AI Sales Assistant** | A local desktop application integrating the OpenAI API for real-time sales call assistance and live transcription. | [View GitHub Repository](https://github.com/oniwasgone/sales-call-assistant) |
-| 🔐 **Diffie-Hellman Key exchange Algorithm** | An algorithm to safely share a secret key over an insecure channel. | [View GitHub Repository](https://github.com/oniwasgone/Diffie-Hellman-Algo) |
+| 🔐 **Diffie-Hellman Key Exchange Algorithm** | An algorithm to safely share a secret key over an insecure channel. | [View GitHub Repository](https://github.com/oniwasgone/Diffie-Hellman-Algo) |
+| 🖼️ **Image Processing on DE10-Lite** | Real-time image processing with convolution kernels on RISC-V FPGA hardware. | [View GitHub Repository](https://github.com/oniwasgone/gitdtekvcode) |
 | 🚀 **Developer Portfolio** | A modern Vanilla JS web application featuring premium smooth scrolling and animations. | [View Live Website](https://oniwasgone.github.io/portfolio/) |
+
+---
+
+### 📦 Public Repositories
+
+
+| [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) | *No description* | ⭐ 0 |
+| [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) | *No description* | ⭐ 0 |
+| [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) | *No description* | ⭐ 0 |
+| [**oniwasgone/Diffie-Hellman-Algo**](https://github.com/oniwasgone/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. | ⭐ 0 |
 
 ---
 
@@ -16,7 +27,9 @@
 Here is a live feed of my latest open-source contributions and updates:
 
 
+- [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) - *No description provided*
 - [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) - *No description provided*
+- [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) - *No description provided*
 
 ---
 
