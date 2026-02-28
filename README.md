@@ -5,9 +5,9 @@
 
 | Repository | Description |
 |-----------|-------------|
-| [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) |  |
-| [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) |  |
-| [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) |  |
+| [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) | Modern developer portfolio with smooth scrolling and GSAP animations https://oniwasgone.github.io/portfolio/#work |
+| [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) | Real-time AI sales assistant using OpenAI API with live transcription |
+| [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) | Image processing with convolution kernels on DE10-Lite RISC-V FPGA |
 | [**oniwasgone/Diffie-Hellman-Algo**](https://github.com/oniwasgone/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
 
 
