@@ -5,9 +5,10 @@
 
 | Repository | Description |
 |-----------|-------------|
-| [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio) |  |
-| [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant) |  |
-| [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode) |  |
+| [**oniwasgone/TradingBot**](https://github.com/oniwasgone/TradingBot) |  |
+| [**oniwasgone/PortfolioSite**](https://github.com/oniwasgone/PortfolioSite) |  |
+| [**oniwasgone/SalesCallAI**](https://github.com/oniwasgone/SalesCallAI) |  |
+| [**oniwasgone/ImageProcessor**](https://github.com/oniwasgone/ImageProcessor) |  |
 | [**oniwasgone/Diffie-Hellman-Algo**](https://github.com/oniwasgone/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
 
 
@@ -18,9 +19,10 @@
 Here is a live feed of my latest open-source contributions and updates:
 
 
-- [**oniwasgone/gitdtekvcode**](https://github.com/oniwasgone/gitdtekvcode)
-- [**oniwasgone/portfolio**](https://github.com/oniwasgone/portfolio)
-- [**oniwasgone/sales-call-assistant**](https://github.com/oniwasgone/sales-call-assistant)
+- [**oniwasgone/PortfolioSite**](https://github.com/oniwasgone/PortfolioSite)
+- [**oniwasgone/TradingBot**](https://github.com/oniwasgone/TradingBot)
+- [**oniwasgone/ImageProcessor**](https://github.com/oniwasgone/ImageProcessor)
+- [**oniwasgone/SalesCallAI**](https://github.com/oniwasgone/SalesCallAI)
 
 ---
 
