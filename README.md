@@ -5,6 +5,7 @@
 
 | Repository | Description |
 |-----------|-------------|
+| [**oniwasgone/MotecarloSim**](https://github.com/oniwasgone/MotecarloSim) |  |
 | [**oniwasgone/TradingBot**](https://github.com/oniwasgone/TradingBot) |  |
 | [**oniwasgone/PortfolioSite**](https://github.com/oniwasgone/PortfolioSite) |  |
 | [**oniwasgone/SalesCallAI**](https://github.com/oniwasgone/SalesCallAI) |  |
@@ -21,6 +22,7 @@ Here is a live feed of my latest open-source contributions and updates:
 
 - [**oniwasgone/PortfolioSite**](https://github.com/oniwasgone/PortfolioSite)
 - [**oniwasgone/TradingBot**](https://github.com/oniwasgone/TradingBot)
+- [**oniwasgone/MotecarloSim**](https://github.com/oniwasgone/MotecarloSim)
 - [**oniwasgone/ImageProcessor**](https://github.com/oniwasgone/ImageProcessor)
 - [**oniwasgone/SalesCallAI**](https://github.com/oniwasgone/SalesCallAI)
 
