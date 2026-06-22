@@ -5,12 +5,13 @@
 
 | Repository | Description |
 |-----------|-------------|
-| [**oniwasgone/MonteCarloSim**](https://github.com/oniwasgone/MonteCarloSim) |  |
-| [**oniwasgone/TradingBot**](https://github.com/oniwasgone/TradingBot) |  |
-| [**oniwasgone/PortfolioSite**](https://github.com/oniwasgone/PortfolioSite) |  |
-| [**oniwasgone/SalesCallAI**](https://github.com/oniwasgone/SalesCallAI) |  |
-| [**oniwasgone/ImageProcessor**](https://github.com/oniwasgone/ImageProcessor) |  |
-| [**oniwasgone/Diffie-Hellman-Algo**](https://github.com/oniwasgone/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
+| [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim) |  |
+| [**subodhbgwt/TradingBot**](https://github.com/subodhbgwt/TradingBot) |  |
+| [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite) |  |
+| [**subodhbgwt/SalesCallAI**](https://github.com/subodhbgwt/SalesCallAI) |  |
+| [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor) |  |
+| [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
+| [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone) |  |
 
 
 ---
@@ -20,11 +21,11 @@
 Here is a live feed of my latest open-source contributions and updates:
 
 
-- [**oniwasgone/PortfolioSite**](https://github.com/oniwasgone/PortfolioSite)
-- [**oniwasgone/TradingBot**](https://github.com/oniwasgone/TradingBot)
-- [**oniwasgone/MonteCarloSim**](https://github.com/oniwasgone/MonteCarloSim)
-- [**oniwasgone/ImageProcessor**](https://github.com/oniwasgone/ImageProcessor)
-- [**oniwasgone/SalesCallAI**](https://github.com/oniwasgone/SalesCallAI)
+- [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite)
+- [**subodhbgwt/TradingBot**](https://github.com/subodhbgwt/TradingBot)
+- [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim)
+- [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone)
+- [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor)
 
 ---
 
