@@ -11,7 +11,7 @@
 | [**subodhbgwt/SalesCallAI**](https://github.com/subodhbgwt/SalesCallAI) |  |
 | [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor) |  |
 | [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
-| [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone) |  |
+| [**subodhbgwt/subodhbgwt**](https://github.com/subodhbgwt/subodhbgwt) |  |
 
 
 ---
@@ -24,7 +24,7 @@ Here is a live feed of my latest open-source contributions and updates:
 - [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite)
 - [**subodhbgwt/TradingBot**](https://github.com/subodhbgwt/TradingBot)
 - [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim)
-- [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone)
+- [**subodhbgwt/subodhbgwt**](https://github.com/subodhbgwt/subodhbgwt)
 - [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor)
 
 ---
@@ -43,12 +43,12 @@ Here is a live feed of my latest open-source contributions and updates:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oniwasgone&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oniwasgone&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subodhbgwt&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subodhbgwt&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oniwasgone&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subodhbgwt&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
