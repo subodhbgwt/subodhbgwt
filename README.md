@@ -1,7 +1,7 @@
 <h1 align="center"> Subodh Bhagwat </h1>
 <p align="center"><em> Trying to get 1% better every day </em></p>
 
-### 📦 Public Repositories
+### Public Repositories
 
 | Repository | Description |
 |-----------|-------------|
@@ -11,12 +11,12 @@
 | [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite) |  |
 | [**subodhbgwt/SalesCallAI**](https://github.com/subodhbgwt/SalesCallAI) |  |
 | [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor) |  |
-| [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
+| [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | |
 
 
 ---
 
-### 📈 Recent Activity
+### Recent Activity
 
 Here is a live feed of my latest open-source contributions and updates:
 
@@ -29,7 +29,7 @@ Here is a live feed of my latest open-source contributions and updates:
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages:** Python, Java, C / C++, Go, SQL, Haskell, Assembly  
 **Technologies:** Docker, PostgreSQL, Spring, Dash, GitHub, MATLAB
@@ -40,15 +40,15 @@ Here is a live feed of my latest open-source contributions and updates:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oniwasgone&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oniwasgone&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subodhbgwt&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subodhbgwt&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oniwasgone&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subodhbgwt&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
