@@ -5,6 +5,7 @@
 
 | Repository | Description |
 |-----------|-------------|
+| [**subodhbgwt/analyst-agent**](https://github.com/subodhbgwt/analyst-agent) |  |
 | [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim) |  |
 | [**subodhbgwt/TradingBot**](https://github.com/subodhbgwt/TradingBot) |  |
 | [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite) |  |
@@ -21,11 +22,11 @@
 Here is a live feed of my latest open-source contributions and updates:
 
 
+- [**subodhbgwt/analyst-agent**](https://github.com/subodhbgwt/analyst-agent)
 - [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone)
+- [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim)
 - [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite)
 - [**subodhbgwt/TradingBot**](https://github.com/subodhbgwt/TradingBot)
-- [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim)
-- [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor)
 
 ---
 
