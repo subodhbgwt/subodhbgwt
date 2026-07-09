@@ -11,7 +11,7 @@
 | [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite) |  |
 | [**subodhbgwt/SalesCallAI**](https://github.com/subodhbgwt/SalesCallAI) |  |
 | [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor) |  |
-| [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
+| [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | |
 | [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone) |  |
 
 
