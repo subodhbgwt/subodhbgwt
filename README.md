@@ -11,8 +11,7 @@
 | [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite) |  |
 | [**subodhbgwt/SalesCallAI**](https://github.com/subodhbgwt/SalesCallAI) |  |
 | [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor) |  |
-| [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | |
-| [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone) |  |
+| [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | Algorithm used to establish shared secrets when sharing data over public networks using modulo calculations. |
 
 
 ---
@@ -23,10 +22,10 @@ Here is a live feed of my latest open-source contributions and updates:
 
 
 - [**subodhbgwt/analyst-agent**](https://github.com/subodhbgwt/analyst-agent)
-- [**subodhbgwt/oniwasgone**](https://github.com/subodhbgwt/oniwasgone)
-- [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim)
 - [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite)
 - [**subodhbgwt/TradingBot**](https://github.com/subodhbgwt/TradingBot)
+- [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim)
+- [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor)
 
 ---
 
