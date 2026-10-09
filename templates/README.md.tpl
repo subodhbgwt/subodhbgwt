@@ -1,7 +1,7 @@
 <h1 align="center"> Subodh Bhagwat </h1>
 <p align="center"><em> Trying to get 1% better every day </em></p>
 
-### 📦 Public Repositories
+### Repositories
 
 | Repository | Description |
 |-----------|-------------|
@@ -10,9 +10,9 @@
 
 ---
 
-### 📈 Recent Activity
+### Recent activity
 
-Here is a live feed of my latest open-source contributions and updates:
+What I've pushed to most recently:
 
 {{range recentContributions 5}}
 - [**{{.Repo.Name}}**]({{.Repo.URL}})
@@ -20,7 +20,7 @@ Here is a live feed of my latest open-source contributions and updates:
 
 ---
 
-### 🛠 Tech Stack
+### Tech stack
 
 **Languages:** Python, Java, C / C++, Go, SQL, Haskell, Assembly  
 **Technologies:** Docker, PostgreSQL, Spring, Dash, GitHub, MATLAB
@@ -31,20 +31,20 @@ Here is a live feed of my latest open-source contributions and updates:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oniwasgone&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oniwasgone&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subodhbgwt&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subodhbgwt&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oniwasgone&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subodhbgwt&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subodh-bhagwat/" target="_blank">
@@ -53,4 +53,4 @@ Here is a live feed of my latest open-source contributions and updates:
 </p>
 
 ---
-<p align="center"><em>This README is automatically updated daily to feature my newest public repositories!</em></p>
+<p align="center"><em>The repo list updates itself once a day.</em></p>
