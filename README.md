@@ -39,15 +39,6 @@ What I've pushed to most recently:
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subodhbgwt&show_icons=true&theme=tokyonight" height="150"/>
-</p>
-
-
----
-
 ### Contact
 
 <p align="center">
