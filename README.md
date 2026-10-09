@@ -9,7 +9,7 @@
 | [**subodhbgwt/MonteCarloSim**](https://github.com/subodhbgwt/MonteCarloSim) | Monte Carlo pricer for European and Asian options with antithetic and control variates, checked against Black-Scholes. |
 | [**subodhbgwt/TradingBot**](https://github.com/subodhbgwt/TradingBot) | SPY trend-following bot (SMA 20/130, ADX filter, ATR exit) on Alpaca paper trading, with a 21-year backtest. |
 | [**subodhbgwt/PortfolioSite**](https://github.com/subodhbgwt/PortfolioSite) | My personal website. |
-| [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor) |  |
+| [**subodhbgwt/ImageProcessor**](https://github.com/subodhbgwt/ImageProcessor) | Convolution image filters (blur, sharpen, edge, emboss) in C on a RISC-V soft core on the DE10-Lite FPGA, with VGA output. KTH IS1500 project. |
 | [**subodhbgwt/Diffie-Hellman-Algo**](https://github.com/subodhbgwt/Diffie-Hellman-Algo) | Small Java demo of Diffie-Hellman key exchange. |
 
 
